@@ -1,1 +1,1 @@
-# project_work_parallel_computing
+# project_work_parallel_programming_for_machine_learning
